@@ -6,7 +6,7 @@ if (process.env.NODE_ENV === 'development') {
   const tron = Reactotron.configure()
     .use(reactotronRedux())
     .use(reactotronSaga())
-    .connect({ host: 'http://192.168.99.100:9090' });
+    .connect({ host: 'http://seuip:9090' });
 
   tron.clear();
 
