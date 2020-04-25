@@ -14,7 +14,7 @@ export default function Header() {
   return (
     <Container>
       <Link to="/">
-        <img src={logo} alt="Rocketshoes" />
+        <img src={logo} alt="Keyboard" />
       </Link>
 
       <Cart to="/cart">

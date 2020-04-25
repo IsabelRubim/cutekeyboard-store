@@ -22,6 +22,10 @@ export const Container = styled.div`
       text-transform: uppercase;
       transition: background 0.2s;
 
+      @media only screen and (max-width: 410px) {
+        width: 100px;
+      }
+
       &:hover {
         background: ${darken(0.03, '#f76a8c')};
       }
