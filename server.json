@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Teclado Cute Aquarius",
+      "price": 280.9,
+      "image": "https://www.akkogear.com/wp-content/uploads/2019/08/3068_1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Teclado Cute Compacto",
+      "price": 123.0,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ouNfh%2B4QL._SX425_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Teclado Cute Retro",
+      "price": 357.5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61uCi5Yz59L._SL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Teclado Cute Compacto (English e Coreano)",
+      "price": 307.5,
+      "image": "https://cdn.shopify.com/s/files/1/1374/2665/products/Kakao-Friends-Ryan-Wireless-Keyboard-1.jpg?v=1551098432"
+    },
+    {
+      "id": 6,
+      "title": "Mini Teclado Cute | silencioso e ergonômico",
+      "price": 88.2,
+      "image": "https://ae01.alicdn.com/kf/HTB1sy9wNxnaK1RjSZFBq6AW7VXaY/Round-Button-Mini-Keyboard-Cute-Wired-Gaming-Keyboard-For-Macbook-Lenovo-Dell-HP-Asus-Laptop-PC.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Teclado Mecânico para MAC",
+      "price": 600.9,
+      "image": "https://cdn.shopify.com/s/files/1/0151/1123/products/wireless-mechanical-keyboard-elysium-dot-6191-34818042-e1addf4bba52583a06eca5259656ee74-zoom.jpg?v=1571264730"
+    }
+  ]
+}
