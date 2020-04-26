@@ -14,13 +14,8 @@ Construído com:
 
 ## Como eu uso isso?
 
-``yarn install`` ou ``npm install``
-
-Para rodar a api fake:
-
-``json-server server.json -p 3333``
-
-:warning: caso edite alguma coisa no arquivo **server.json**, deve rodar o comando acima novamente.
+* ``yarn install`` ou ``npm install``
+* ``yarn start`` ou ``npm start``
 
 ## Usando Reactotron
 
@@ -32,4 +27,3 @@ Caso queira entender mais sobre o fluxo de como o redux trabalha
 :warning: onde está escrito seuip:9090 você deve colocar algo como ``192...:9090`` ou apenas ``localhost:9090``
 
 Voilá
-
