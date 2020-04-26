@@ -22,5 +22,14 @@ Para rodar a api fake:
 
 :warning: caso edite alguma coisa no arquivo **server.json**, deve rodar o comando acima novamente.
 
+## Usando Reactotron
+
+Caso queira entender mais sobre o fluxo de como o redux trabalha
+
+* [Faça o download do Reactotron](https://github.com/infinitered/reactotron/blob/master/docs/installing.md)
+* [Configure o arquivo](../master/src/config/ReactotronConfig.js)
+
+:warning: onde está escrito seuip:9090 você deve colocar algo como ``192...:9090`` ou apenas ``localhost:9090``
+
 Voilá
 
